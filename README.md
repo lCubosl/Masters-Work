@@ -14,6 +14,7 @@ Repo containing my Masters Projects, organized by course.
 Repos:
 - [SpikeMobileAppViews](https://github.com/lCubosl/IPL_MEICM_DMD_T01) — simple app using spike views.
 - [SpikeMobileAppViews](https://github.com/lCubosl/IPL_MEICM_DMD_T02) — simple app using compose (same as previous but using compose instead of spike views).
+- [Kotlin for Android](https://github.com/lCubosl/intro-to-kotlin) — contains some kotlin courses from `developer.android.com` and `udacity.com`).
 
 ---
 
